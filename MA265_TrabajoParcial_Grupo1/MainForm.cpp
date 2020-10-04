@@ -8,8 +8,8 @@ using namespace System;
 void main()
 {
 
-
-	cout << "CTMR!!!!!!!!";
+	cout << "xD";
+	
 	System::Windows::Forms::Application::EnableVisualStyles();
 
 	System::Windows::Forms::Application::SetCompatibleTextRenderingDefault(false);
