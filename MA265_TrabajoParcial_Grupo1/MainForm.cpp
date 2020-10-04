@@ -9,7 +9,7 @@ void main()
 {
 
 
-	cout << "dnfjdnjfndf";
+	cout << "CTMR!!!!!!!!";
 	System::Windows::Forms::Application::EnableVisualStyles();
 
 	System::Windows::Forms::Application::SetCompatibleTextRenderingDefault(false);
