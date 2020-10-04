@@ -17,7 +17,6 @@ void Figura::dibujar(Graphics^ g) {
 
 	/////////////AHAHAHHAHA
 
-	cout << "ASD";
 	g->DrawLine(gcnew Pen(Color::Red, 5), aux_ax, aux_ay, aux_bx, aux_by);
 	g->DrawLine(gcnew Pen(Color::Red, 5), aux_cx, aux_cy, aux_dx, aux_dy);
 
