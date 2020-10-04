@@ -13,6 +13,8 @@ void Figura::dibujar(Graphics^ g) {
 
 	diferencia = by - ay;
 	
+	///XDDDDDDDDDDDDDDDD
+
 	/////////////AHAHAHHAHA
 
 	cout << "ASD";
