@@ -10,8 +10,7 @@ void main()
 
 	cout << "xD";
 
-	cout << "MIERDA";
-	cout << "df jd fjng f";
+	cout << "ERE CON ERE FERROCARRIL";
 	System::Windows::Forms::Application::EnableVisualStyles();
 
 	System::Windows::Forms::Application::SetCompatibleTextRenderingDefault(false);
