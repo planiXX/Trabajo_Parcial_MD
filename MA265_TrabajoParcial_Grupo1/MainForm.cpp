@@ -9,7 +9,9 @@ void main()
 {
 
 	cout << "xD";
-	
+
+
+	cout << "df jd fjng f";
 	System::Windows::Forms::Application::EnableVisualStyles();
 
 	System::Windows::Forms::Application::SetCompatibleTextRenderingDefault(false);
